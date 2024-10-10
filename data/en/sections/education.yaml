@@ -10,95 +10,67 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-    logo: /images/sections/education/tech_college.png
-    # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: M.Tech. in Power Electronics and Drivers
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2012-2014
   institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/university.jpg
-    # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/education/university.jpg
-  grade: #(optional)
+    name: SRM University - Chennai, Tamil Nadu, IN
+    url: "https://www.srmist.edu.in/"
+  grade:
     scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
+    achieved: 9.1
+    outOf: 10
+  takenCourses:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  custonSections: #(optional)
-    - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
+    # showGrades: false
+    # courses:
+    # - name: Data Structures and Algorithms
+    #   achieved: 10
+    #   outOf: 10
+  extracurricularActivities:
+  - Published a paper on “PMSG Based WECS with PR Control Strategy for Grid Control” under Automation and Control in Applied Mechanics and Materials (Volume 573) Journal and attended several national and international conferences.
+  
+- name: B.Tech. in Electrical and Electronics Engineering
+  icon: fa-graduation-cap
+  timeframe: 2008-2012
   institution:
-    name: MST College of Science
-    url: "#"
-    logo: /images/sections/education/science_college.png
-    # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/education/science_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+    name: JNTU - Hyderabad, Telangana, IN
+    url: "https://jntuh.ac.in/"
+  grade:
+    scale: CGPA
+    achieved: 8.2
+    outOf: 10
+  takenCourses:
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    # showGrades: false
+    # courses:
+    # - name: Data Structures and Algorithms
+    #   achieved: 10
+    #   outOf: 10
+  extracurricularActivities:
+  - Won 1st prize in Robo-soccer at Sreenidhi Institute of Science and Technology in “Spardhaa 10” national level technical fest held on 2-3 October 2010.
+  - Presented a technical paper on “Contribution of Electrical Technology in GO GREEN” in NIT, Warangal and received a certificate of appreciation.
+
+- name: Board of Intermediate Education
+  icon: fa-university
+  timeframe: 2006-2008
+  institution:
+    name: Narayana Junior College - Hyderabad, Telangana, IN
+    url: "https://www.narayanagroup.com/"
+  grade:
+    scale: Percentage
+    achieved: 94.2
+    outOf: 100
+  extracurricularActivities:
+  - Volunteered for Math and Physics olympiad and conference 
+
 - name: Secondary School Certificate
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2005-2006
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: Secunderabad Public School, Telangana, IN
+    url: "https://thesecunderabadpublicschool.co.in/"
+  grade:
+    scale: Percentage
+    achieved: 83
+    outOf: 100
