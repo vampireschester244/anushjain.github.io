@@ -11,39 +11,43 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Python
+  logo: "images/sections/skills/python.png"
+  summary: "Experienced in writing modular code in Python. Proficient in Problem Solving and OOPS concepts using Python. Primarily for backend applications, ML and automation."
+  url: "https://www.python.org/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Artificial Intelligence
+  logo: "images/sections/skills/ai.png"
+  summary: "Proficient in building Classic & Deep Machine Learning models. Skilled in designing and developing Neural Networks, C-NNs, R-NNs and NLP based models."
+  url: "https://www.tensorflow.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Web Development
+  logo: "images/sections/skills/django.png"
+  summary: "Capable of setting up websites using Flask, Node.js or Django as backend frameworks and React or vanilla JS as frontend. Adept knowledge in designing web APIs."
+  url: "https://www.djangoproject.com/"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Data Preprocessing
+  logo: "images/sections/skills/data-processing.png"
+  summary: "Skilled in data acquisition, pre-processing and massaging techniques using Numpy and Pandas and other frameworks. Can also work with Pyspark for data warehousing processes."
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Data Analytics
+  logo: "images/sections/skills/analytics.png"
+  summary: "Adept knowledge in statistical models and techniques helpful in handling market research, consumer experience and LTV related problem statements."
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Data Visualization
+  logo: "images/sections/skills/web-analytics.png"
+  summary: "Trained in using Visualization softwares like Power BI and Tableau. Can create interactive visualizations and dashboards. Also proficient in Python graphing Libraries like Matplotlib and Seaborn."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+- name: DevOps
+  logo: "images/sections/skills/git.png"
+  summary: "Experienced with industry standard deployment practices. Capable of engineering mature CICD pipelines with build, test and deploy processes."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Programming
+  logo: "images/sections/skills/c++.png"
+  summary: "Well versed with basic concepts of C, C++ and Java programming languages. Acquired knowledge and experience of OOPs concepts."
+
+- name: App Development
+  logo: "images/sections/skills/qt.png"
+  summary: "Can create immersive and responsive GUIs and desktop applications. Can either use Tkinter or Qt framework. Learning more on Electron.js framework."
+  url: "https://www.qt.io/"
