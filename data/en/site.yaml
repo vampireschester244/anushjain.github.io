@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Anush Jain Portfolio
   type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  description: Portfolio and personal blog of Anush Jain.
+  image: images/author/AnushJain_pic_reimgsize.png
+  url: https://anushjain.github.io
