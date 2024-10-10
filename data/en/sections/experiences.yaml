@@ -32,31 +32,45 @@ experiences:
     - Built several automation projects based on RPA frameworks using AA360, UiPAth and Power Automate for various business operation tasks.
 
 - company:
-    name: Dell Technologies
-    url: "https://www.dell.com/"
+    name: Ness Technologies
+    url: "https://www.ness.com/"
     location: Hyderabad, IN
-    overview: Dell Technologies is the leader in digital transformation, providing digital technology solutions, products, and services to drive business success.
+    overview: Ness is a digital engineering company providing advisory & scaled services for digital business transformation, leveraging digital transformation for AI and Automations.
   positions:
-  - designation: Software Engineer - 1
-    start: August 2021
-    end: January 2023
+  - designation: Senior Software Engineer
+    start: November 2017
+    end: February 2020
     responsibilities:
-    - Creation and maintenance of supervised machine learning models to automate processes in the primary data pipeline.
-    - Conceptualize and implementation of new models required by the business stakeholders that might help understand relationships between key business KPIs.
-    - Design and develop REST APIs that are used by the downstream consumers.
-    - Implement DevOps and MLOps pipelines for CICD.
+    - Gathered data from different aggregators by performing web scraping in Python for competitive analysis and conducted extensive research on revenue management and pricing analytics for insurance based products
+    - Cleaned, merged and manipulated datasets and conducted feature engineering using Pandas.
+    - Applied various machine learning techniques using Python to build dynamic pricing models and maximize profits.
+    - Built pipelines for scaling and training the machine learning model using stochastic gradient decent algorithm trained through keras neural net for multiple epochs to get the better performance and metrics.
+    - Created a customized name entity recognition (NER) pair for the financial terminologies to train the text forms and also analyzed the frequency and vectorization of these text works occurring in the text document.
+    - Worked as Matlab Programmer and solution provider for investment based product to the client as per design architecture and requirements and created the end to end automated solution of Matlab calc engine.
 
 - company:
-    name: Dell Technologies
-    url: "https://www.dell.com/"
+    name: Cognizant Technology Solutions
+    url: "https://www.cognizant.com/in/en"
     location: Hyderabad, IN
-    overview: Dell Technologies is the leader in digital transformation, providing digital technology solutions, products, and services to drive business success.
+    overview: Cognizant helps companies modernize technology, reimagine processes and transform experiences so they stay ahead in a fast-changing world.
   positions:
-  - designation: Software Development Intern
-    start: February 2021
-    end: May 2021
+  - designation: Programmer Analyst
+    start: November 2016
+    end: November 2017
     responsibilities:
-    - Project included improvement of the pre-existing Text Categorizer Model (NLP).
-    - Designing a Sub-Categorizer Model on top of the Categorizer Model.
-    - Building independent APIs for both models to facilitate various functionalities such as Training, Predictions and Updation of training data.
-    - Designed a webapp where the Data Strategy Team can analyse the predictions and validate the results.
+    - Handling crystal reports and design work flows and providing SEMI and CAPA solutions to the customers. Worked on PL SQL to develop custom queries and procedures and server side activities and various utility tools
+    - Importing data from various sources such as flat files, web APIs and through relational database into Python development environment and perform data analysis on it to get the meaningful insights.
+    - Used regular expressions to clean and parse the strings for pattern matching in the input files and testing with asserts. Extracting and transforming the data through custom functions. Also applying aggregations and groupby operations on the dataframes through stacking and unstacking methods.
+- company:
+    name: Tata Consultancy Services
+    url: "https://www.tcs.com/"
+    location: Pune, IN
+    overview: TCS, a global leader in IT services, consulting, and business solutions, leverages technology for business transformation and helps catalyze change.
+  positions:
+  - designation: Software Systems Engineer
+    start: August 2014
+    end: November 2016
+    responsibilities:
+    - Worked as developer both in TrackWise and implementation of eOrganization and eLearning modules in eManufacturing and Newton application and also worked on PL SQL procedures for the application.
+    - Requirement gathering, Design, Development, Implementation, Administration Integration, Client interaction and Testing
+    - Debugging and fixing the issues raised in python scripts during execution within scheduled SLA.
