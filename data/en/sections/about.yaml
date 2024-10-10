@@ -8,29 +8,29 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Senior Software Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Dell Technologies
+  url: "https://www.dell.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am an Experienced and results-driven data analytics professional with a demonstrated proficiency in econometric modeling, front-end and back-end development, and machine learning techniques. Proven track record of solving pivotal business problems. Seeking a challenging role in the software and IT domain to apply acquired skills and drive organizational success through dedication and diligence. Committed to delivering quality work and aiming for continuous growth within the field.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "vampireschester244@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/vampireschester244"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -38,7 +38,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/anushjain/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -61,7 +61,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/AnushJain_Resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -82,21 +82,36 @@ badges:
   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
+badges:
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
+  name: Team Player
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Communicative
+  percentage: 100
+  color: pink
+
+- type: soft-skill-indicator
+  name: Detail Oriented
+  percentage: 100
+  color: green
+
+- type: soft-skill-indicator
+  name: Dependable
+  percentage: 100
   color: orange
 
+- type: soft-skill-indicator
+  name: Problem Solver
+  percentage: 100
+  color: sky
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
