@@ -32,7 +32,7 @@ accomplishments:
   organization:
     name: Edureka
     url: https://www.edureka.co
-  courseOverview: This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
+  courseOverview: This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include Supervised learning parametric/non-parametric algorithms, support vector machines, kernels, neural networks. Unsupervised learning clustering, dimensionality reduction, recommender systems, deep learning. Best practices in machine learning bias variance theory, innovation process in machine learning and AI.
   certificateURL: "https://www.edureka.co/lms/certificate/934d05f8e14ca053469dfa64b11a02b1"
 
 - name: Big Data Engineering with Hadoop and Spark
